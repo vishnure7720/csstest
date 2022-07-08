@@ -1,0 +1,51 @@
+h1{
+border: 70px solid white;
+
+}
+
+/* h2{
+    font-size:xxx-large;
+    font-family:serif;
+    color: rgb(225, 144, 13);
+} */
+
+p{
+    margin-top: 20px;
+}
+
+.centered {
+    margin: 0 auto;
+    text-align: left;
+    width: 800px;
+}
+.pt{
+    size: 20p;
+}
+
+.city{
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: left;
+    width: 800px;
+}
+
+.abc{
+    margin: 0 auto;
+    text-align: left;
+    width: 800px; 
+}
+
+
+
+button{
+    background-color: darkgoldenrod;
+    text-emphasis-color:black;
+}
+
+#brd{
+    
+        border: 40px solid white;
+        padding-left: 10%;
+        margin-top: 10%;   
+}
+
